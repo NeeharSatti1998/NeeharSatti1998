@@ -1,7 +1,7 @@
 <!-- 🌌 Neehar Satti | Personal GitHub Portfolio -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FD1AE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Neehar+Satti!;Machine+Learning+Engineer+%7C+AI+Developer+%7C+Data+Science+Innovator;Building+Smarter+Systems+With+Data+and+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FD1AE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Neehar+Satti!;Machine+Learning+Engineer+%7C+AI+Engineer+%7C+Data+Scientist;Building+Smarter+Systems+With+Data+and+AI." alt="Typing SVG" />
 </p>
 
 <h3 align="center">
